@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700;800;900&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  font-family: 'Rubik', 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.container{
+  width: 40%;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 5%;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+}
+nav{
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+nav a{
+  padding: 20px;
+  margin: 10px;
+}
+
+/* .card{
+  border-radius: 10px;
+  width: 100%;
+  height: 200px;
+  text-align: center;
+  padding: 20px;
+}
+.card h3{
+  padding: 10px;
+}
+.logout-btn{
+  width: 100px;
+  height: 40px;
+  background-color: rgb(252, 213, 53);
+  border: 1px solid white;
+  border-radius: 5px;
+  color: rgb(36, 36, 36);
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 20px;
+}
+.login-card{
+  width: 100%;
+  height: 400px;
+  text-align: center;
+  padding: 20px;
+  text-align: center;
+}
+.login-card h3{
+  margin-bottom: 20px;
+  font-size: 28px;
+}
+.login-card input{
+  width: 80%;
+  height: 45px;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 7px;
+}
+.login-card button{
+  width: 100px;
+  height: 40px;
+  background-color: rgb(252, 213, 53);
+  border: 1px solid white;
+  border-radius: 5px;
+  color: rgb(41, 41, 41);
+  margin-top: 20px;
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+.login-card span{
+  color: rgb(124, 124, 124);
+}
+.login-card a{
+  padding: 10px;
+  color: rgb(0, 0, 0);
+}
+
+/* signup */
+/* .signup-card{
+  width: 100%;
+  height: 400px;
+  text-align: center;
+  padding: 20px;
+  text-align: center;
+}
+.signup-card h3{
+  margin-bottom: 20px;
+  font-size: 28px;
+}
+.signup-card input{
+  width: 80%;
+  height: 45px;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 7px;
+}
+.signup-card button{
+  width: 200px;
+  height: 50px;
+  background-color: rgb(255, 230, 0);
+  border: 1px solid white;
+  border-radius: 5px;
+  color: rgb(39, 39, 39);
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+.signup-card span{
+  color: rgb(124, 124, 124);
+}
+.signup-card a{
+  padding: 10px;
+  color: rgb(0, 0, 0);
+}
+.navbar{
+  width: 60%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.navbar span{
+  padding: 20px;
+}
+.navbar h1{
+  text-align: center;
+  margin-top: 20px;
+}
+.links{
+  width: 40%;
+  margin-left: 10%;
+  margin-right: 30%;
+  margin-top: 20px;
+}
+.links span a{
+  color: black;
+}  */
